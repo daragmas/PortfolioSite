@@ -1,9 +1,3 @@
-#  Set up Flask and Bootstrap
-# What is being showcased?
-# Multi-page: Home, Resume, Portfolio, Contact
-# Color Scheme
-# Set up on Heroku
-
 from flask import Flask, render_template, request
 from flask_bootstrap import Bootstrap
 from flask_ckeditor import CKEditor
